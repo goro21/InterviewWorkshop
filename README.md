@@ -1,2 +1,2 @@
 # InterviewWorkshop
-Guide to follow an Automated Tested interview
+Guide to follow an Automated Tester interview
